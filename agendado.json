@@ -1,0 +1,1 @@
+{"data": "2026-10-24", "por_rede": {"pinterest": 15, "threads": 6, "instagram": 4, "facebook": 4, "youtube": 2, "tiktok": 2}, "erros": ["metricool deslocou horarios: pinterest 21:00->23:00, pinterest 22:00->23:00, threads 21:20->23:20, threads 22:00->23:00 (pins apos 22:00 fora da regra, mantidos sem alterar)"]}
