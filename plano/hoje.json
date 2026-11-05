@@ -1,0 +1,904 @@
+{
+ "data": "2026-11-05",
+ "pausado": false,
+ "fase": "normal",
+ "tema": {
+  "nome": "black_friday",
+  "inicio": "2026-11-01",
+  "fim": "2026-11-30",
+  "preco_max": 150,
+  "prioriza_queda": true,
+  "tema": "black_friday"
+ },
+ "posts": [
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T08:00:00",
+   "produto": 97,
+   "titulo": "Assadeira de vidro com tampa: conjunto rosa de 6 peças",
+   "pasta": "Achados de Cozinha",
+   "texto": "Conjunto de assadeiras de vidro com tampa rosa para forno convencional. Achados para casa e organização de cozinha. Achado nº 97. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/a97_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/assadeira-de-vidro-com-tampa-97/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "A",
+   "metricool": {
+    "text": "Conjunto de assadeiras de vidro com tampa rosa para forno convencional. Achados para casa e organização de cozinha. Achado nº 97. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/a97_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T08:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Assadeira de vidro com tampa: conjunto rosa de 6 peças",
+     "pinLink": "https://amarivestore.github.io/achados/assadeira-de-vidro-com-tampa-97/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T09:00:00",
+   "produto": 98,
+   "titulo": "Alça para garrafão de água em ferro zincado, kit com 2",
+   "pasta": "Achados de Cozinha",
+   "texto": "Alça pegador para garrafão 10 e 20 litros com cabo de PVC. Achados para casa e organização da cozinha. Achado nº 98. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/a98_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/alca-para-garrafao-de-agua-98/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Alça pegador para garrafão 10 e 20 litros com cabo de PVC. Achados para casa e organização da cozinha. Achado nº 98. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/a98_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T09:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Alça para garrafão de água em ferro zincado, kit com 2",
+     "pinLink": "https://amarivestore.github.io/achados/alca-para-garrafao-de-agua-98/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T10:00:00",
+   "produto": 99,
+   "titulo": "Pisca pisca natal 100 LED branco quente para a árvore",
+   "pasta": "Achados até R$ 30",
+   "texto": "Cordão de 9,5 metros com 100 luzes e 8 modos. Uso interno. Achados para casa e decoração de Natal. Achado nº 99. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/a99_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/pisca-pisca-natal-100-led-99/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Cordão de 9,5 metros com 100 luzes e 8 modos. Uso interno. Achados para casa e decoração de Natal. Achado nº 99. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/a99_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T10:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Pisca pisca natal 100 LED branco quente para a árvore",
+     "pinLink": "https://amarivestore.github.io/achados/pisca-pisca-natal-100-led-99/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T11:00:00",
+   "produto": 101,
+   "titulo": "Pano de copa listrado prata para secar louça",
+   "pasta": "Achados até R$ 30",
+   "texto": "Pano de copa listrado de 70 x 45 cm para a cozinha. Achados para casa e organização de cozinha. Achado nº 101. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/a101_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/pano-de-copa-listrado-101/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Pano de copa listrado de 70 x 45 cm para a cozinha. Achados para casa e organização de cozinha. Achado nº 101. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/a101_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T11:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Pano de copa listrado prata para secar louça",
+     "pinLink": "https://amarivestore.github.io/achados/pano-de-copa-listrado-101/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T12:00:00",
+   "produto": 102,
+   "titulo": "Colágeno com ácido hialurônico em pote de 216g",
+   "pasta": "Achados até R$ 30",
+   "texto": "Pote de 216 gramas com colágeno e ácido hialurônico. Achados para casa e organização da rotina. Achado nº 102. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/a102_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/colageno-com-acido-hialuronico-102/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Pote de 216 gramas com colágeno e ácido hialurônico. Achados para casa e organização da rotina. Achado nº 102. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/a102_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T12:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Colágeno com ácido hialurônico em pote de 216g",
+     "pinLink": "https://amarivestore.github.io/achados/colageno-com-acido-hialuronico-102/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T13:00:00",
+   "produto": 103,
+   "titulo": "Estante de aço multiuso para organizar panelas",
+   "pasta": "Organização da Casa",
+   "texto": "Estante de aço com 5 ou 6 prateleiras para cozinha, sala, quarto e casa. Organização de cozinha e achados para casa. Achado nº 103. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/a103_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/estante-de-aco-multiuso-103/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "A",
+   "metricool": {
+    "text": "Estante de aço com 5 ou 6 prateleiras para cozinha, sala, quarto e casa. Organização de cozinha e achados para casa. Achado nº 103. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/a103_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T13:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Organização da Casa",
+     "pinTitle": "Estante de aço multiuso para organizar panelas",
+     "pinLink": "https://amarivestore.github.io/achados/estante-de-aco-multiuso-103/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T14:00:00",
+   "produto": 74,
+   "titulo": "Varal retrátil parede com corda de 6 kg",
+   "pasta": "Limpeza Prática",
+   "texto": "Cada corda suporta 6 kg, a corda é retrátil e o modelo é branco, de plástico polipropileno. Achado nº 74. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-01_a74_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/varal-retratil-parede-74/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Cada corda suporta 6 kg, a corda é retrátil e o modelo é branco, de plástico polipropileno. Achado nº 74. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-01_a74_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T14:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Limpeza Prática",
+     "pinTitle": "Varal retrátil parede com corda de 6 kg",
+     "pinLink": "https://amarivestore.github.io/achados/varal-retratil-parede-74/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T15:00:00",
+   "produto": 75,
+   "titulo": "Rodo mop flat com balde e refis inclusos",
+   "pasta": "Limpeza Prática",
+   "texto": "Acompanha balde e 2 refis para trocar durante a limpeza do piso da casa. Achado nº 75. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-01_a75_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/rodo-mop-flat-com-balde-75/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Acompanha balde e 2 refis para trocar durante a limpeza do piso da casa. Achado nº 75. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-01_a75_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T15:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Limpeza Prática",
+     "pinTitle": "Rodo mop flat com balde e refis inclusos",
+     "pinLink": "https://amarivestore.github.io/achados/rodo-mop-flat-com-balde-75/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T16:00:00",
+   "produto": 76,
+   "titulo": "Potes plásticos com tampa com 21 peças para cozinha",
+   "pasta": "Achados de Cozinha",
+   "texto": "Kit com 21 potes plásticos com tampa, para organizar a cozinha e levar marmitas. Achado nº 76. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-01_a76_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/potes-plasticos-com-tampa-76/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Kit com 21 potes plásticos com tampa, para organizar a cozinha e levar marmitas. Achado nº 76. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-01_a76_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T16:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Potes plásticos com tampa com 21 peças para cozinha",
+     "pinLink": "https://amarivestore.github.io/achados/potes-plasticos-com-tampa-76/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T17:00:00",
+   "produto": 77,
+   "titulo": "Tábua de passar roupa dobrável: antes e depois da bagunça",
+   "pasta": "Limpeza Prática",
+   "texto": "Chega de tábua ocupando o corredor. Com pés dobráveis, ela fica guardada atrás da porta ou no canto da lavanderia. Achado nº 77. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a77_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/tabua-de-passar-roupa-dobravel-77/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Chega de tábua ocupando o corredor. Com pés dobráveis, ela fica guardada atrás da porta ou no canto da lavanderia. Achado nº 77. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a77_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T17:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Limpeza Prática",
+     "pinTitle": "Tábua de passar roupa dobrável: antes e depois da bagunça",
+     "pinLink": "https://amarivestore.github.io/achados/tabua-de-passar-roupa-dobravel-77/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T18:00:00",
+   "produto": 78,
+   "titulo": "Placa adesiva tijolinho: antes e depois da parede",
+   "pasta": "Decoração Barata",
+   "texto": "Parede lisa e sem graça virando uma parede de tijolinho branco, sem obra e sem quebrar nada. Achado nº 78. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a78_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/placa-adesiva-tijolinho-parede-78/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Parede lisa e sem graça virando uma parede de tijolinho branco, sem obra e sem quebrar nada. Achado nº 78. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a78_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T18:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Decoração Barata",
+     "pinTitle": "Placa adesiva tijolinho: antes e depois da parede",
+     "pinLink": "https://amarivestore.github.io/achados/placa-adesiva-tijolinho-parede-78/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T19:00:00",
+   "produto": 79,
+   "titulo": "Chega de falta de espaço",
+   "pasta": "Achados até R$ 30",
+   "texto": "Organizador Modular Diamond 30x7,5x5,2cm Cristal: ideia para casa. Achado nº 79. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a79_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/organizador-modular-diamond-30x7-5x5-2cm-cristal-79/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Organizador Modular Diamond 30x7,5x5,2cm Cristal: ideia para casa. Achado nº 79. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a79_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T19:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Chega de falta de espaço",
+     "pinLink": "https://amarivestore.github.io/achados/organizador-modular-diamond-30x7-5x5-2cm-cristal-79/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T20:00:00",
+   "produto": 80,
+   "titulo": "Chega de bagunça na cozinha",
+   "pasta": "Achados até R$ 30",
+   "texto": "Avental Açougueiro Maicol Vinil Transparente: ideia para cozinha. Achado nº 80. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a80_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/avental-acougueiro-maicol-vinil-transparente-80/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Avental Açougueiro Maicol Vinil Transparente: ideia para cozinha. Achado nº 80. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a80_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T20:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Chega de bagunça na cozinha",
+     "pinLink": "https://amarivestore.github.io/achados/avental-acougueiro-maicol-vinil-transparente-80/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T21:00:00",
+   "produto": 81,
+   "titulo": "Chega de bagunça na cozinha",
+   "pasta": "Achados de Cozinha",
+   "texto": "Jogo Talheres Faqueiro Búzios Aço: ideia para cozinha. Achado nº 81. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a81_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/jogo-talheres-faqueiro-buzios-aco-81/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Jogo Talheres Faqueiro Búzios Aço: ideia para cozinha. Achado nº 81. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a81_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T21:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Chega de bagunça na cozinha",
+     "pinLink": "https://amarivestore.github.io/achados/jogo-talheres-faqueiro-buzios-aco-81/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-05T22:00:00",
+   "produto": 82,
+   "titulo": "Organizador de pia: antes e depois do detergente na poça",
+   "pasta": "Achados até R$ 30",
+   "texto": "Chega de frasco de detergente parado na água. Com o organizador, tudo fica no lugar ao lado da pia. Achado nº 82. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a82_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/organizador-de-pia-para-detergente-82/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Chega de frasco de detergente parado na água. Com o organizador, tudo fica no lugar ao lado da pia. Achado nº 82. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-05/2026-11-02_a82_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-05T22:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Organizador de pia: antes e depois do detergente na poça",
+     "pinLink": "https://amarivestore.github.io/achados/organizador-de-pia-para-detergente-82/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  }
+ ],
+ "telegram": [],
+ "fila_pinterest": {
+  "agendados": 15,
+  "na_fila": 46,
+  "produtos_na_fila": 26,
+  "sem_pin_na_fila": 0,
+  "sairam_da_fila": 9
+ },
+ "produtos": [
+  {
+   "numero": 97,
+   "titulo": "Conjunto Assadeiras 6 Peças com Tampa Cor Rosa - Marinex",
+   "id": "ML-MLB27361540",
+   "fonte": "mercadolivre",
+   "loja": null,
+   "pontos": 60.7,
+   "detalhe": {
+    "vendas": 0.47,
+    "avaliacao": 1.0,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 1.0,
+    "bom_em_video": 0.3,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 121.0,
+   "links": {
+    "pinterest": "https://www.mercadolivre.com.br/p/MLB27361540?pdp_filters=item_id%3AMLB5537219564&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "telegram": "https://www.mercadolivre.com.br/p/MLB27361540?pdp_filters=item_id%3AMLB5537219564&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "site": "https://www.mercadolivre.com.br/p/MLB27361540?pdp_filters=item_id%3AMLB5537219564&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true"
+   },
+   "formula": "pequeno_grande",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "A",
+    "pin2": "A",
+    "pin3": "C",
+    "post": "A"
+   },
+   "video_tipo": "novo",
+   "formato_video": "problema_solucao",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 98,
+   "titulo": "Alça Pegador p/ Garrafão de Água Mineral 10 e 20 Litros Kit com 2 da Ponte Lar Utilidades Reforçado",
+   "id": "ML-MLB68724258",
+   "fonte": "mercadolivre",
+   "loja": null,
+   "pontos": 49.0,
+   "detalhe": {
+    "vendas": 0.33,
+    "avaliacao": 0.85,
+    "preco": 1.0,
+    "comissao": 0.53,
+    "resolve_problema": 0.5,
+    "bom_em_video": 0.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 46.99,
+   "links": {
+    "pinterest": "https://www.mercadolivre.com.br/p/MLB68724258?pdp_filters=item_id%3AMLB6682742600&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "telegram": "https://www.mercadolivre.com.br/p/MLB68724258?pdp_filters=item_id%3AMLB6682742600&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "site": "https://www.mercadolivre.com.br/p/MLB68724258?pdp_filters=item_id%3AMLB6682742600&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true"
+   },
+   "formula": "salva_isso",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "problema_solucao",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 99,
+   "titulo": "Cordão de Luzes Natalinas 100 LED Branco Quente 9.5m para Árvore e Interior",
+   "id": "ML-MLB79971653",
+   "fonte": "mercadolivre",
+   "loja": null,
+   "pontos": 45.8,
+   "detalhe": {
+    "vendas": 0.2,
+    "avaliacao": 0.85,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 0.0,
+    "bom_em_video": 0.8,
+    "novidade": 0.5
+   },
+   "papel": "teste",
+   "preco": 19.9,
+   "links": {
+    "pinterest": "https://www.mercadolivre.com.br/p/MLB79971653?pdp_filters=item_id%3AMLB5312289759&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "telegram": "https://www.mercadolivre.com.br/p/MLB79971653?pdp_filters=item_id%3AMLB5312289759&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "site": "https://www.mercadolivre.com.br/p/MLB79971653?pdp_filters=item_id%3AMLB5312289759&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true"
+   },
+   "formula": "voce_precisa",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "problema_solucao",
+   "reprovacoes": [
+    "pin3 C: nota 6",
+    "pin3 C: nota 6"
+   ],
+   "motivo_template": ""
+  },
+  {
+   "numero": 101,
+   "titulo": "Pano de Copa Listrado 45x70cm Prata Hedrons",
+   "id": "LM-e198615b-2433576",
+   "fonte": "lomadee",
+   "loja": "Amoedo",
+   "pontos": 63.3,
+   "detalhe": {
+    "vendas": 1.0,
+    "avaliacao": 0.85,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 0.0,
+    "bom_em_video": 0.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 15.79,
+   "links": {
+    "pinterest": "https://lmdee.link/eBXyaeGaAez1?mdasc=a101-pinterest",
+    "telegram": "https://lmdee.link/eBXyaeGaAez1?mdasc=a101-telegram",
+    "site": "https://lmdee.link/eBXyaeGaAez1?mdasc=a101-site"
+   },
+   "formula": "se_voce",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "problema_solucao",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 102,
+   "titulo": "1 Pote Colageno + Ácido Hialuronico 216g Mega Oferta + Frete Gratis",
+   "id": "SH-22596395149",
+   "fonte": "shopee",
+   "loja": "Armazem_00",
+   "pontos": 69.7,
+   "detalhe": {
+    "vendas": 0.87,
+    "avaliacao": 0.96,
+    "preco": 1.0,
+    "comissao": 1.0,
+    "resolve_problema": 0.0,
+    "bom_em_video": 0.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 28.0,
+   "links": {
+    "pinterest": "https://s.shopee.com.br/3VlaWwyxwQ",
+    "telegram": "https://s.shopee.com.br/9zz4GtahcL",
+    "site": "https://s.shopee.com.br/2LZd8o3PK6"
+   },
+   "formula": "pergunta",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "problema_solucao",
+   "reprovacoes": [
+    "pin1 C: nota 6",
+    "pin1 C: nota 6",
+    "pin2 C: nota 6",
+    "pin2 C: nota 6",
+    "pin3 C: nota 6",
+    "post C: nota 6",
+    "post C: nota 6"
+   ],
+   "motivo_template": ""
+  },
+  {
+   "numero": 103,
+   "titulo": "Estante 6 OU 5 Prateleiras Cozinha de Aço Multiuso Panelas Casa Sala Quarto Organizador",
+   "id": "SH-23993275214",
+   "fonte": "shopee",
+   "loja": "BOMM FAMILIA",
+   "pontos": 69.7,
+   "detalhe": {
+    "vendas": 0.9,
+    "avaliacao": 0.88,
+    "preco": 0.6,
+    "comissao": 0.2,
+    "resolve_problema": 1.0,
+    "bom_em_video": 0.0,
+    "novidade": 0.5
+   },
+   "papel": "teste",
+   "preco": 72.99,
+   "links": {
+    "pinterest": "https://s.shopee.com.br/3LSAKe4LNT",
+    "telegram": "https://s.shopee.com.br/5fq56vvWu1",
+    "site": "https://s.shopee.com.br/5LDEiK1GbK"
+   },
+   "formula": "custa_pouco",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "A",
+    "pin2": "A",
+    "pin3": "C",
+    "post": "A"
+   },
+   "video_tipo": "novo",
+   "formato_video": "problema_solucao",
+   "reprovacoes": [],
+   "motivo_template": ""
+  }
+ ],
+ "avisos_fontes": [
+  "Awin falhou e ficou de fora hoje: Awin recusou o acesso (401); confira o AWIN_API_TOKEN",
+  "nº 100 Bandeja Coza Uno Maxi Branco ficou de fora: Sem fotos para Bandeja Coza Uno Maxi Branco"
+ ],
+ "verificacao": {
+  "ok": true,
+  "avisos": [],
+  "capas": {
+   "97": 141.80946180555554,
+   "98": 139.07228973765433,
+   "99": 118.12345679012346,
+   "101": 147.89515817901236,
+   "102": 118.65567129629629,
+   "103": 143.01615547839506
+  }
+ }
+}
