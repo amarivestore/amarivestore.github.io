@@ -1,0 +1,31 @@
+{
+ "gerado_em": "2026-11-05T23:36:37-03:00",
+ "publicados": [
+  {
+   "rede": "pinterest",
+   "quando": "2026-11-05T00:56:23Z",
+   "texto_ini": "Suporta 30 kg, tem bolsa de 37,5 litros, bolso traseiro com zíper e é dobrável para guardar fácil. Achado nº 68. Publi: link de afiliado. A compra é feita na lo",
+   "url": "https://www.pinterest.com/pin/1134062749959187498",
+   "views": 0
+  },
+  {
+   "rede": "pinterest",
+   "quando": "2026-11-04T23:56:23Z",
+   "texto_ini": "Antes, pacotes abertos e sem tampa. Depois, mantimentos guardados em potes com tampa na despensa. Achado nº 76. Publi: link de afiliado. A compra é feita na loj",
+   "url": "https://www.pinterest.com/pin/1134062749959184081",
+   "views": 0
+  },
+  {
+   "rede": "pinterest",
+   "quando": "2026-11-04T22:56:23Z",
+   "texto_ini": "Antes, chão com sujeira e água espalhada. Depois, piso lavado e seco com rodo mop flat. Achado nº 75. Publi: link de afiliado. A compra é feita na loja oficial.",
+   "url": "https://www.pinterest.com/pin/1134062749959180761",
+   "views": 0
+  }
+ ],
+ "erros": [
+  "tiktok, instagram (reels e posts), facebook (posts e reels), threads e youtube: nenhum post na janela (retorno vazio)",
+  "pinterest: 13 pins agendados de 05/11 08:00 a 22:00 (America/Sao_Paulo) constam como PUBLISHED no Metricool (getScheduledPosts), mas ainda não aparecem na análise de pins (defasagem de métricas); ficaram fora da lista de publicados",
+  "Nenhum post pendente/sem publicar na janela"
+ ]
+}
