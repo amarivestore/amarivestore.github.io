@@ -1,0 +1,772 @@
+{
+ "data": "2026-11-07",
+ "pausado": false,
+ "fase": "normal",
+ "tema": {
+  "nome": "black_friday",
+  "inicio": "2026-11-01",
+  "fim": "2026-11-30",
+  "preco_max": 150,
+  "prioriza_queda": true,
+  "tema": "black_friday"
+ },
+ "posts": [
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T10:00:00",
+   "produto": 104,
+   "titulo": "Suporte de livro em L preto para estante",
+   "pasta": "Achados até R$ 30",
+   "texto": "Suporte de livro em L preto, par, em aço carbono. Organização de estante para quem tem muitos livros e achados para casa. Achado nº 104. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/a104_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/suporte-de-livro-em-l-104/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "B",
+   "metricool": {
+    "text": "Suporte de livro em L preto, par, em aço carbono. Organização de estante para quem tem muitos livros e achados para casa. Achado nº 104. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/a104_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T10:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Suporte de livro em L preto para estante",
+     "pinLink": "https://amarivestore.github.io/achados/suporte-de-livro-em-l-104/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T11:00:00",
+   "produto": 105,
+   "titulo": "Frigideira antiaderente 30cm chumbo para cozinha",
+   "pasta": "Achados de Cozinha",
+   "texto": "Frigideira Tramontina Turim de 30 cm com antiaderente Starflon Max. Achados para cozinha e organização de cozinha. Achado nº 105. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/a105_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/frigideira-antiaderente-30cm-105/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "A",
+   "metricool": {
+    "text": "Frigideira Tramontina Turim de 30 cm com antiaderente Starflon Max. Achados para cozinha e organização de cozinha. Achado nº 105. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/a105_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T11:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Frigideira antiaderente 30cm chumbo para cozinha",
+     "pinLink": "https://amarivestore.github.io/achados/frigideira-antiaderente-30cm-105/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T12:00:00",
+   "produto": 106,
+   "titulo": "Organizador giratório cristal de 31 cm",
+   "pasta": "Organização da Casa",
+   "texto": "Organizador giratório transparente em PET, com 31 cm de largura. Organização de casa e achados para casa. Achado nº 106. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/a106_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/organizador-giratorio-106/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Organizador giratório transparente em PET, com 31 cm de largura. Organização de casa e achados para casa. Achado nº 106. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/a106_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T12:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Organização da Casa",
+     "pinTitle": "Organizador giratório cristal de 31 cm",
+     "pinLink": "https://amarivestore.github.io/achados/organizador-giratorio-106/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T13:00:00",
+   "produto": 107,
+   "titulo": "Vaso decorativo com planta artificial para sala",
+   "pasta": "Decoração Barata",
+   "texto": "Kit com vaso, jarro e planta artificial para decorar sala, quarto e escritório. Achados para casa e decoração simples. Achado nº 107. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/a107_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/vaso-decorativo-com-planta-artificial-107/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Kit com vaso, jarro e planta artificial para decorar sala, quarto e escritório. Achados para casa e decoração simples. Achado nº 107. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/a107_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T13:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Decoração Barata",
+     "pinTitle": "Vaso decorativo com planta artificial para sala",
+     "pinLink": "https://amarivestore.github.io/achados/vaso-decorativo-com-planta-artificial-107/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T14:00:00",
+   "produto": 108,
+   "titulo": "Organizador para guarda-roupa cobertor e casaco",
+   "pasta": "Achados até R$ 30",
+   "texto": "Caixa saco ecológica que protege de poeira, umidade e insetos. Organização de guarda-roupa e achados para casa. Achado nº 108. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/a108_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/organizador-para-guarda-roupa-cobertor-108/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "A",
+   "metricool": {
+    "text": "Caixa saco ecológica que protege de poeira, umidade e insetos. Organização de guarda-roupa e achados para casa. Achado nº 108. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/a108_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T14:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Organizador para guarda-roupa cobertor e casaco",
+     "pinLink": "https://amarivestore.github.io/achados/organizador-para-guarda-roupa-cobertor-108/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T15:00:00",
+   "produto": 83,
+   "titulo": "Organizador lavar e usar: antes e depois da bagunça",
+   "pasta": "Organização da Casa",
+   "texto": "Sem misturar o limpo com o sujo. Cada lado tem seu compartimento para usar ou lavar. Achado nº 83. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a83_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/organizador-lavar-e-usar-83/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Sem misturar o limpo com o sujo. Cada lado tem seu compartimento para usar ou lavar. Achado nº 83. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a83_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T15:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Organização da Casa",
+     "pinTitle": "Organizador lavar e usar: antes e depois da bagunça",
+     "pinLink": "https://amarivestore.github.io/achados/organizador-lavar-e-usar-83/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T16:00:00",
+   "produto": 84,
+   "titulo": "Prateleira organizadora banheiro: antes e depois",
+   "pasta": "Organização da Casa",
+   "texto": "Itens espalhados pela pia e pelo chão viram um banheiro com cada coisa no seu lugar. Achado nº 84. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a84_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/prateleira-organizadora-banheiro-84/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Itens espalhados pela pia e pelo chão viram um banheiro com cada coisa no seu lugar. Achado nº 84. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a84_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T16:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Organização da Casa",
+     "pinTitle": "Prateleira organizadora banheiro: antes e depois",
+     "pinLink": "https://amarivestore.github.io/achados/prateleira-organizadora-banheiro-84/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T17:00:00",
+   "produto": 85,
+   "titulo": "Tampa de silicone para panela: antes e depois",
+   "pasta": "Achados até R$ 30",
+   "texto": "Pilha de tampas que não servem em nenhuma panela vira um kit que se ajusta a várias delas. Achado nº 85. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a85_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/tampa-de-silicone-para-panela-85/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Pilha de tampas que não servem em nenhuma panela vira um kit que se ajusta a várias delas. Achado nº 85. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a85_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T17:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Tampa de silicone para panela: antes e depois",
+     "pinLink": "https://amarivestore.github.io/achados/tampa-de-silicone-para-panela-85/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T18:00:00",
+   "produto": 77,
+   "titulo": "Tábua de passar roupa dobrável com 3 benefícios",
+   "pasta": "Limpeza Prática",
+   "texto": "Pés dobráveis para guardar fácil, estrutura de aço reforçada e 3 alturas para ajustar. Veja mais organização de lavanderia. Achado nº 77. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a77_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/tabua-de-passar-roupa-dobravel-77/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Pés dobráveis para guardar fácil, estrutura de aço reforçada e 3 alturas para ajustar. Veja mais organização de lavanderia. Achado nº 77. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a77_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T18:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Limpeza Prática",
+     "pinTitle": "Tábua de passar roupa dobrável com 3 benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/tabua-de-passar-roupa-dobravel-77/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T19:00:00",
+   "produto": 78,
+   "titulo": "Placa adesiva tijolinho com 3 benefícios",
+   "pasta": "Decoração Barata",
+   "texto": "Kit com 10 placas, aplicação simples e serve em azulejo e madeira. Veja mais decoração sem reforma. Achado nº 78. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a78_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/placa-adesiva-tijolinho-parede-78/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Kit com 10 placas, aplicação simples e serve em azulejo e madeira. Veja mais decoração sem reforma. Achado nº 78. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a78_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T19:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Decoração Barata",
+     "pinTitle": "Placa adesiva tijolinho com 3 benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/placa-adesiva-tijolinho-parede-78/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T20:00:00",
+   "produto": 79,
+   "titulo": "Organizador Modular Diamond 30x7,5x5,2cm Cristal: por que vale a pena",
+   "pasta": "Achados até R$ 30",
+   "texto": "Cor: Transparente; Material: Plástico - Poliestireno (PS); Fotos reais do anúncio Achado nº 79. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a79_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/organizador-modular-diamond-30x7-5x5-2cm-cristal-79/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Cor: Transparente; Material: Plástico - Poliestireno (PS); Fotos reais do anúncio Achado nº 79. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a79_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T20:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Organizador Modular Diamond 30x7,5x5,2cm Cristal: por que vale a pena",
+     "pinLink": "https://amarivestore.github.io/achados/organizador-modular-diamond-30x7-5x5-2cm-cristal-79/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T21:00:00",
+   "produto": 80,
+   "titulo": "Avental Açougueiro Maicol Vinil Transparente: por que vale a pena",
+   "pasta": "Achados até R$ 30",
+   "texto": "Cor: Transparente; Fotos reais do anúncio; Avaliado por quem comprou Achado nº 80. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a80_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/avental-acougueiro-maicol-vinil-transparente-80/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Cor: Transparente; Fotos reais do anúncio; Avaliado por quem comprou Achado nº 80. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a80_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T21:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Avental Açougueiro Maicol Vinil Transparente: por que vale a pena",
+     "pinLink": "https://amarivestore.github.io/achados/avental-acougueiro-maicol-vinil-transparente-80/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-07T22:00:00",
+   "produto": 81,
+   "titulo": "Jogo Talheres Faqueiro Búzios Aço: por que vale a pena",
+   "pasta": "Achados de Cozinha",
+   "texto": "Cor: Aço inoxidável; Quantidade de peças: 24; Fotos reais do anúncio Achado nº 81. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a81_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/jogo-talheres-faqueiro-buzios-aco-81/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Cor: Aço inoxidável; Quantidade de peças: 24; Fotos reais do anúncio Achado nº 81. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-07/2026-11-02_a81_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-07T22:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Jogo Talheres Faqueiro Búzios Aço: por que vale a pena",
+     "pinLink": "https://amarivestore.github.io/achados/jogo-talheres-faqueiro-buzios-aco-81/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  }
+ ],
+ "telegram": [],
+ "fila_pinterest": {
+  "agendados": 13,
+  "na_fila": 48,
+  "produtos_na_fila": 26,
+  "sem_pin_na_fila": 0,
+  "sairam_da_fila": 8
+ },
+ "produtos": [
+  {
+   "numero": 104,
+   "titulo": "Bibliocanto Em L Suporte Apoio Livro Aparador Lateral O Par Cor Preto",
+   "id": "ML-MLB28700659",
+   "fonte": "mercadolivre",
+   "loja": null,
+   "pontos": 50.8,
+   "detalhe": {
+    "vendas": 0.2,
+    "avaliacao": 1.0,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 1.0,
+    "bom_em_video": 0.0,
+    "novidade": 0.5
+   },
+   "papel": "teste",
+   "preco": 24.45,
+   "links": {
+    "pinterest": "https://www.mercadolivre.com.br/p/MLB28700659?pdp_filters=item_id%3AMLB4719490661&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "telegram": "https://www.mercadolivre.com.br/p/MLB28700659?pdp_filters=item_id%3AMLB4719490661&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "site": "https://www.mercadolivre.com.br/p/MLB28700659?pdp_filters=item_id%3AMLB4719490661&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true"
+   },
+   "formula": "menos_lanche",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "B",
+    "pin2": "B",
+    "pin3": "C",
+    "post": "B"
+   },
+   "video_tipo": "novo",
+   "formato_video": "tres_motivos",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 105,
+   "titulo": "Frigideira Turim 30cm 2,5L Chumbo Tramontina",
+   "id": "LM-e198615b-2445523",
+   "fonte": "lomadee",
+   "loja": "Amoedo",
+   "pontos": 76.3,
+   "detalhe": {
+    "vendas": 1.0,
+    "avaliacao": 0.85,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 1.0,
+    "bom_em_video": 0.3,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 74.09,
+   "links": {
+    "pinterest": "https://lmdee.link/MpD7iUOnN1Pw?mdasc=a105-pinterest",
+    "telegram": "https://lmdee.link/MpD7iUOnN1Pw?mdasc=a105-telegram",
+    "site": "https://lmdee.link/MpD7iUOnN1Pw?mdasc=a105-site"
+   },
+   "formula": "todo_mundo",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "A",
+    "pin2": "B",
+    "pin3": "B",
+    "post": "A"
+   },
+   "video_tipo": "novo",
+   "formato_video": "antes_depois",
+   "reprovacoes": [
+    "pin2 A: nota 6"
+   ],
+   "motivo_template": ""
+  },
+  {
+   "numero": 106,
+   "titulo": "Organizador Giratório New Retro 31x8.4cm Coza",
+   "id": "LM-e198615b-2384060",
+   "fonte": "lomadee",
+   "loja": "Amoedo",
+   "pontos": 70.6,
+   "detalhe": {
+    "vendas": 0.92,
+    "avaliacao": 0.85,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 0.5,
+    "bom_em_video": 0.5,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 77.27,
+   "links": {
+    "pinterest": "https://lmdee.link/ithHzlSwpIm3?mdasc=a106-pinterest",
+    "telegram": "https://lmdee.link/ithHzlSwpIm3?mdasc=a106-telegram",
+    "site": "https://lmdee.link/ithHzlSwpIm3?mdasc=a106-site"
+   },
+   "formula": "ninguem_contou",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "voce_sabia",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 107,
+   "titulo": "Kit Vaso Jarro Decoração Enfeite Painel Sala Escritório Quarto Rack Planta Artificial",
+   "id": "SH-58214888953",
+   "fonte": "shopee",
+   "loja": "Sense Solutions",
+   "pontos": 71.7,
+   "detalhe": {
+    "vendas": 0.85,
+    "avaliacao": 0.84,
+    "preco": 1.0,
+    "comissao": 1.0,
+    "resolve_problema": 0.5,
+    "bom_em_video": 0.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 32.97,
+   "links": {
+    "pinterest": "https://s.shopee.com.br/3B8nQfdqBp",
+    "telegram": "https://s.shopee.com.br/9V2qyJFjMk",
+    "site": "https://s.shopee.com.br/906aNOHhfz"
+   },
+   "formula": "lista_rapida",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "tres_motivos",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 108,
+   "titulo": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso Organizers",
+   "id": "SH-58257273463",
+   "fonte": "shopee",
+   "loja": "Farol Estelar",
+   "pontos": 69.6,
+   "detalhe": {
+    "vendas": 0.92,
+    "avaliacao": 0.96,
+    "preco": 0.6,
+    "comissao": 0.2,
+    "resolve_problema": 1.0,
+    "bom_em_video": 0.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 20.29,
+   "links": {
+    "pinterest": "https://s.shopee.com.br/1Lh9FIpMFk",
+    "telegram": "https://s.shopee.com.br/4B1KcVeQzg",
+    "site": "https://s.shopee.com.br/3VldpHh2Zm"
+   },
+   "formula": "nao_sabia",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "A",
+    "pin2": "A",
+    "pin3": "C",
+    "post": "A"
+   },
+   "video_tipo": "novo",
+   "formato_video": "antes_depois",
+   "reprovacoes": [],
+   "motivo_template": ""
+  }
+ ],
+ "avisos_fontes": [
+  "Awin falhou e ficou de fora hoje: Awin recusou o acesso (401); confira o AWIN_API_TOKEN"
+ ],
+ "verificacao": {
+  "ok": true,
+  "avisos": [],
+  "capas": {
+   "104": 117.02753665123457,
+   "105": 123.76200810185185,
+   "106": 150.1435185185185,
+   "107": 135.96098572530863,
+   "108": 136.2704475308642
+  }
+ }
+}
