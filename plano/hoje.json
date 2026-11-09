@@ -1,0 +1,856 @@
+{
+ "data": "2026-11-09",
+ "pausado": false,
+ "fase": "normal",
+ "tema": {
+  "nome": "black_friday",
+  "inicio": "2026-11-01",
+  "fim": "2026-11-30",
+  "preco_max": 150,
+  "prioriza_queda": true,
+  "tema": "black_friday"
+ },
+ "posts": [
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T08:00:00",
+   "produto": 114,
+   "titulo": "Luminária de mesa articulada preta para sua casa",
+   "pasta": "Decoração Barata",
+   "texto": "Luminária de mesa articulada modelo Pixar, com base e garra e LED. Um achado para escritório, quarto e canto de estudo. Achado nº 114. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/a114_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/luminaria-de-mesa-articulada-114/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "A",
+   "metricool": {
+    "text": "Luminária de mesa articulada modelo Pixar, com base e garra e LED. Um achado para escritório, quarto e canto de estudo. Achado nº 114. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/a114_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T08:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Decoração Barata",
+     "pinTitle": "Luminária de mesa articulada preta para sua casa",
+     "pinLink": "https://amarivestore.github.io/achados/luminaria-de-mesa-articulada-114/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T09:00:00",
+   "produto": 115,
+   "titulo": "Escultura de elefante decorativa bege para estante",
+   "pasta": "Decoração Barata",
+   "texto": "Escultura de elefante em poliresina bege para decorar estante, aparador e mesa. Peça pequena e delicada para o ambiente. Achado nº 115. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/a115_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/escultura-de-elefante-decorativa-115/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "B",
+   "metricool": {
+    "text": "Escultura de elefante em poliresina bege para decorar estante, aparador e mesa. Peça pequena e delicada para o ambiente. Achado nº 115. Publi: link de afiliado. A compra é feita na loja oficial. #decoracao #decoracaobarata #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/a115_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T09:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Decoração Barata",
+     "pinTitle": "Escultura de elefante decorativa bege para estante",
+     "pinLink": "https://amarivestore.github.io/achados/escultura-de-elefante-decorativa-115/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T10:00:00",
+   "produto": 116,
+   "titulo": "Balde metálico para concreto de 10 litros",
+   "pasta": "Achados até R$ 30",
+   "texto": "Balde metálico galvanizado com alça lateral e capacidade de 10 litros. Indicado para obra e trabalhos em casa. Achado nº 116. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/a116_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/balde-metalico-para-concreto-116/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Balde metálico galvanizado com alça lateral e capacidade de 10 litros. Indicado para obra e trabalhos em casa. Achado nº 116. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/a116_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T10:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Balde metálico para concreto de 10 litros",
+     "pinLink": "https://amarivestore.github.io/achados/balde-metalico-para-concreto-116/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T11:00:00",
+   "produto": 117,
+   "titulo": "Escorredor de louça para pia em aço inoxidável preto",
+   "pasta": "Achados de Cozinha",
+   "texto": "Escorredor de louça em aço inoxidável preto para organizar a pia e ajudar a secar a louça da cozinha. Achado nº 117. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/a117_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/escorredor-de-louca-para-pia-117/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Escorredor de louça em aço inoxidável preto para organizar a pia e ajudar a secar a louça da cozinha. Achado nº 117. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/a117_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T11:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Escorredor de louça para pia em aço inoxidável preto",
+     "pinLink": "https://amarivestore.github.io/achados/escorredor-de-louca-para-pia-117/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T12:00:00",
+   "produto": 118,
+   "titulo": "Prateleira adesiva sem furo para banheiro e cozinha",
+   "pasta": "Achados até R$ 30",
+   "texto": "Prateleira de metal adesiva, sem furo, para organizar shampoo e sabonete na parede do banheiro ou da cozinha. Achado nº 118. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/a118_pin1.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/prateleira-adesiva-sem-furo-118/?origem=pinterest",
+   "da_fila": false,
+   "estilo": "C",
+   "versao": "C",
+   "metricool": {
+    "text": "Prateleira de metal adesiva, sem furo, para organizar shampoo e sabonete na parede do banheiro ou da cozinha. Achado nº 118. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/a118_pin1.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T12:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Prateleira adesiva sem furo para banheiro e cozinha",
+     "pinLink": "https://amarivestore.github.io/achados/prateleira-adesiva-sem-furo-118/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T13:00:00",
+   "produto": 86,
+   "titulo": "Armário dobrável para roupas: benefícios",
+   "pasta": "Organização da Casa",
+   "texto": "Montagem fácil, oito divisórias e suporte de 20 kg. Achados para casa e organização de closet. Achado nº 86. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a86_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/armario-dobravel-para-roupas-86/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Montagem fácil, oito divisórias e suporte de 20 kg. Achados para casa e organização de closet. Achado nº 86. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a86_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T13:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Organização da Casa",
+     "pinTitle": "Armário dobrável para roupas: benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/armario-dobravel-para-roupas-86/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T14:00:00",
+   "produto": 87,
+   "titulo": "Caixa organizadora com tampa: benefícios",
+   "pasta": "Achados até R$ 30",
+   "texto": "Tampa com fecho, formato retangular e ótima para miudezas. Achados para casa e organização de quarto. Achado nº 87. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a87_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/caixa-organizadora-com-tampa-87/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Tampa com fecho, formato retangular e ótima para miudezas. Achados para casa e organização de quarto. Achado nº 87. Publi: link de afiliado. A compra é feita na loja oficial. #organizacao #casaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a87_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T14:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Caixa organizadora com tampa: benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/caixa-organizadora-com-tampa-87/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T15:00:00",
+   "produto": 88,
+   "titulo": "Panela de pressão 7 litros: benefícios",
+   "pasta": "Achados de Cozinha",
+   "texto": "Base dupla, alumínio que aquece rápido e cabo que isola o calor. Achados para casa e cozinha prática. Achado nº 88. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a88_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/panela-de-pressao-7-litros-88/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Base dupla, alumínio que aquece rápido e cabo que isola o calor. Achados para casa e cozinha prática. Achado nº 88. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a88_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T15:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Panela de pressão 7 litros: benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/panela-de-pressao-7-litros-88/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T16:00:00",
+   "produto": 89,
+   "titulo": "Frigideira antiaderente 20cm: benefícios",
+   "pasta": "Achados até R$ 30",
+   "texto": "Não gruda, usa menos óleo e é fácil de limpar. Achados para cozinha e utensílios para casa. Achado nº 89. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a89_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/frigideira-antiaderente-20cm-89/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Não gruda, usa menos óleo e é fácil de limpar. Achados para cozinha e utensílios para casa. Achado nº 89. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a89_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T16:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Frigideira antiaderente 20cm: benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/frigideira-antiaderente-20cm-89/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T17:00:00",
+   "produto": 90,
+   "titulo": "Rodo tira pelo para vidro: benefícios",
+   "pasta": "Achados até R$ 30",
+   "texto": "Serve para secos e molhados, uso duplo e silicone para vidro. Achados para casa e limpeza prática. Achado nº 90. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a90_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/rodo-tira-pelo-para-vidro-90/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Serve para secos e molhados, uso duplo e silicone para vidro. Achados para casa e limpeza prática. Achado nº 90. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a90_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T17:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Rodo tira pelo para vidro: benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/rodo-tira-pelo-para-vidro-90/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T18:00:00",
+   "produto": 91,
+   "titulo": "Esfregão triangular giratório 360: benefícios",
+   "pasta": "Achados até R$ 30",
+   "texto": "Giro de 360 graus, formato triangular e preço baixo. Achados para casa e limpeza prática. Achado nº 91. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a91_pin3.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/esfregao-triangular-giratorio-360-91/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Giro de 360 graus, formato triangular e preço baixo. Achados para casa e limpeza prática. Achado nº 91. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-03_a91_pin3.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T18:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Esfregão triangular giratório 360: benefícios",
+     "pinLink": "https://amarivestore.github.io/achados/esfregao-triangular-giratorio-360-91/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T19:00:00",
+   "produto": 92,
+   "titulo": "Bomba manual para galão de água antes e depois",
+   "pasta": "Achados até R$ 30",
+   "texto": "Antes: galão pesado para inclinar e servir. Depois: basta bombear e a água sai pelo bico. Ideia prática para cozinha. Achado nº 92. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a92_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/bomba-manual-para-galao-de-agua-92/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Antes: galão pesado para inclinar e servir. Depois: basta bombear e a água sai pelo bico. Ideia prática para cozinha. Achado nº 92. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a92_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T19:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Bomba manual para galão de água antes e depois",
+     "pinLink": "https://amarivestore.github.io/achados/bomba-manual-para-galao-de-agua-92/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T20:00:00",
+   "produto": 93,
+   "titulo": "Puxador dispenser lavadora Brastemp antes e depois",
+   "pasta": "Achados até R$ 30",
+   "texto": "Antes: dispenser sem puxador e difícil de usar. Depois: peça de reposição encaixada. Dica de limpeza para casa. Achado nº 93. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a93_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/puxador-dispenser-lavadora-brastemp-93/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Antes: dispenser sem puxador e difícil de usar. Depois: peça de reposição encaixada. Dica de limpeza para casa. Achado nº 93. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a93_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T20:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados até R$ 30",
+     "pinTitle": "Puxador dispenser lavadora Brastemp antes e depois",
+     "pinLink": "https://amarivestore.github.io/achados/puxador-dispenser-lavadora-brastemp-93/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T21:00:00",
+   "produto": 94,
+   "titulo": "Escova sanitária com tampa antes e depois",
+   "pasta": "Limpeza Prática",
+   "texto": "Antes: escova exposta e resíduos à vista. Depois: tampa fecha ao voltar ao suporte. Ideia prática para banheiro. Achado nº 94. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a94_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/escova-sanitaria-com-tampa-94/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Antes: escova exposta e resíduos à vista. Depois: tampa fecha ao voltar ao suporte. Ideia prática para banheiro. Achado nº 94. Publi: link de afiliado. A compra é feita na loja oficial. #limpezadecasa #dicasdelimpeza #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a94_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T21:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Limpeza Prática",
+     "pinTitle": "Escova sanitária com tampa antes e depois",
+     "pinLink": "https://amarivestore.github.io/achados/escova-sanitaria-com-tampa-94/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  },
+  {
+   "rede": "pinterest",
+   "tipo": "imagem",
+   "quando": "2026-11-09T22:00:00",
+   "produto": 95,
+   "titulo": "Kit potes para mantimentos antes e depois",
+   "pasta": "Achados de Cozinha",
+   "texto": "Antes: mantimentos espalhados na despensa. Depois: potes organizados. Ideia prática para cozinha. Achado nº 95. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+   "midia": [
+    "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a95_pin2.jpg"
+   ],
+   "link": "https://amarivestore.github.io/achados/kit-potes-para-mantimentos-95/?origem=pinterest",
+   "da_fila": true,
+   "estilo": "C",
+   "versao": "?",
+   "metricool": {
+    "text": "Antes: mantimentos espalhados na despensa. Depois: potes organizados. Ideia prática para cozinha. Achado nº 95. Publi: link de afiliado. A compra é feita na loja oficial. #achadosdecozinha #cozinhaorganizada #achadinhos",
+    "providers": [
+     {
+      "network": "pinterest"
+     }
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "media": [
+     "https://amarivestore.github.io/m/2026-11-09/2026-11-04_a95_pin2.jpg"
+    ],
+    "shortener": false,
+    "firstCommentText": "",
+    "descendants": [],
+    "publicationDate": {
+     "dateTime": "2026-11-09T22:00:00",
+     "timezone": "America/Sao_Paulo"
+    },
+    "pinterestData": {
+     "boardId": "Achados de Cozinha",
+     "pinTitle": "Kit potes para mantimentos antes e depois",
+     "pinLink": "https://amarivestore.github.io/achados/kit-potes-para-mantimentos-95/?origem=pinterest",
+     "pinNewFormat": false
+    }
+   }
+  }
+ ],
+ "telegram": [],
+ "fila_pinterest": {
+  "agendados": 15,
+  "na_fila": 48,
+  "produtos_na_fila": 26,
+  "sem_pin_na_fila": 0,
+  "sairam_da_fila": 10
+ },
+ "produtos": [
+  {
+   "numero": 114,
+   "titulo": "Luminária De Mesa Dapon Articulada Abajur Modelo Pixar Com Base e Garra Cor Preto",
+   "id": "ML-MLB22949617",
+   "fonte": "mercadolivre",
+   "loja": null,
+   "pontos": 72.3,
+   "detalhe": {
+    "vendas": 0.6,
+    "avaliacao": 1.0,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 1.0,
+    "bom_em_video": 1.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 67.8,
+   "links": {
+    "pinterest": "https://www.mercadolivre.com.br/p/MLB22949617?pdp_filters=item_id%3AMLB6582852158&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "telegram": "https://www.mercadolivre.com.br/p/MLB22949617?pdp_filters=item_id%3AMLB6582852158&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true",
+    "site": "https://www.mercadolivre.com.br/p/MLB22949617?pdp_filters=item_id%3AMLB6582852158&matt_word=lb20261017121601040&matt_tool=60434349&forceInApp=true"
+   },
+   "formula": "ninguem_contou",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "A",
+    "pin2": "A",
+    "pin3": "C",
+    "post": "A"
+   },
+   "video_tipo": "antigo",
+   "formato_video": null,
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 115,
+   "titulo": "Escultura Poliresina Elefante 15.5x13x6 Bege Florarte",
+   "id": "LM-e198615b-2442460",
+   "fonte": "lomadee",
+   "loja": "Amoedo",
+   "pontos": 70.8,
+   "detalhe": {
+    "vendas": 1.0,
+    "avaliacao": 0.85,
+    "preco": 0.6,
+    "comissao": 0.53,
+    "resolve_problema": 0.5,
+    "bom_em_video": 0.0,
+    "novidade": 0.5
+   },
+   "papel": "teste",
+   "preco": 127.09,
+   "links": {
+    "pinterest": "https://lmdee.link/F1jpSgXB9w50?mdasc=a115-pinterest",
+    "telegram": "https://lmdee.link/F1jpSgXB9w50?mdasc=a115-telegram",
+    "site": "https://lmdee.link/F1jpSgXB9w50?mdasc=a115-site"
+   },
+   "formula": "antes_depois",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "B",
+    "pin2": "B",
+    "pin3": "C",
+    "post": "B"
+   },
+   "video_tipo": "novo",
+   "formato_video": "tres_motivos",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 116,
+   "titulo": "Balde Metálico para Concreto 10 Litros Vonder",
+   "id": "LM-e198615b-2084741",
+   "fonte": "lomadee",
+   "loja": "Amoedo",
+   "pontos": 69.4,
+   "detalhe": {
+    "vendas": 0.92,
+    "avaliacao": 0.85,
+    "preco": 1.0,
+    "comissao": 0.53,
+    "resolve_problema": 0.5,
+    "bom_em_video": 0.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 27.45,
+   "links": {
+    "pinterest": "https://lmdee.link/pG5LNfQt4htr?mdasc=a116-pinterest",
+    "telegram": "https://lmdee.link/pG5LNfQt4htr?mdasc=a116-telegram",
+    "site": "https://lmdee.link/pG5LNfQt4htr?mdasc=a116-site"
+   },
+   "formula": "dez_segundos",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "antes_depois",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 117,
+   "titulo": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
+   "id": "SH-23794994613",
+   "fonte": "shopee",
+   "loja": "RM COMERCIO",
+   "pontos": 69.1,
+   "detalhe": {
+    "vendas": 0.96,
+    "avaliacao": 0.88,
+    "preco": 0.6,
+    "comissao": 0.2,
+    "resolve_problema": 1.0,
+    "bom_em_video": 0.0,
+    "novidade": 0.0
+   },
+   "papel": "teste",
+   "preco": 76.8,
+   "links": {
+    "pinterest": "https://s.shopee.com.br/30pQJhuzhq",
+    "telegram": "https://s.shopee.com.br/1BokC6tci",
+    "site": "https://s.shopee.com.br/1W0cWx5Rpp"
+   },
+   "formula": "custa_pouco",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "voce_sabia",
+   "reprovacoes": [],
+   "motivo_template": ""
+  },
+  {
+   "numero": 118,
+   "titulo": "Prateleira de Metal Adesiva Sem Furo para Banheiro e Cozinha, Organizador de Parede Porta Shampoo e Sabonete",
+   "id": "SH-22198797147",
+   "fonte": "shopee",
+   "loja": "MANGO-SHOP",
+   "pontos": 68.5,
+   "detalhe": {
+    "vendas": 0.85,
+    "avaliacao": 0.92,
+    "preco": 0.6,
+    "comissao": 0.2,
+    "resolve_problema": 1.0,
+    "bom_em_video": 0.0,
+    "novidade": 0.5
+   },
+   "papel": "teste",
+   "preco": 16.99,
+   "links": {
+    "pinterest": "https://s.shopee.com.br/8AXWTCg8aD",
+    "telegram": "https://s.shopee.com.br/906dSjhQw6",
+    "site": "https://s.shopee.com.br/80E6GtlExw"
+   },
+   "formula": "salva_isso",
+   "copy_fixa": false,
+   "variante": "template",
+   "versoes": {
+    "pin1": "C",
+    "pin2": "C",
+    "pin3": "C",
+    "post": "C"
+   },
+   "video_tipo": "novo",
+   "formato_video": "tres_motivos",
+   "reprovacoes": [
+    "post C: nota 6"
+   ],
+   "motivo_template": ""
+  }
+ ],
+ "avisos_fontes": [
+  "Awin falhou e ficou de fora hoje: Awin recusou o acesso (401); confira o AWIN_API_TOKEN"
+ ],
+ "verificacao": {
+  "ok": true,
+  "avisos": [],
+  "capas": {
+   "114": 156.6156925154321,
+   "115": 130.655574845679,
+   "116": 144.17751736111111,
+   "117": 126.64014274691358,
+   "118": 132.69434799382717
+  }
+ }
+}
