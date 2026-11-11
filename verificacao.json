@@ -1,0 +1,30 @@
+{
+ "gerado_em": "2026-11-10T23:36:15-03:00",
+ "publicados": [
+  {
+   "rede": "pinterest",
+   "quando": "2026-11-09T23:03:43Z",
+   "texto_ini": "Antes: dispenser sem puxador e difícil de usar. Depois: peça de reposição encaixada. Dica de limpeza para casa. Achado nº 93. Publi: link de afiliado. A compra ",
+   "url": "https://www.pinterest.com/pin/1134062749959630162",
+   "views": 0
+  },
+  {
+   "rede": "pinterest",
+   "quando": "2026-11-10T00:04:14Z",
+   "texto_ini": "Antes: escova exposta e resíduos à vista. Depois: tampa fecha ao voltar ao suporte. Ideia prática para banheiro. Achado nº 94. Publi: link de afiliado. A compra",
+   "url": "https://www.pinterest.com/pin/1134062749959633411",
+   "views": 0
+  },
+  {
+   "rede": "pinterest",
+   "quando": "2026-11-10T01:02:34Z",
+   "texto_ini": "Antes: mantimentos espalhados na despensa. Depois: potes organizados. Ideia prática para cozinha. Achado nº 95. Publi: link de afiliado. A compra é feita na loj",
+   "url": "https://www.pinterest.com/pin/1134062749959636450",
+   "views": 0
+  }
+ ],
+ "erros": [
+  "youtube: só campos Deprecated no Metricool; sem posts listados (views null)",
+  "TikTok: 1 post (2026-11-09T01:52:51Z, 478 views) fora da janela, não incluído"
+ ]
+}
